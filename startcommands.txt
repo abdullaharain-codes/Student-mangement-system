@@ -1,0 +1,67 @@
+# ==============================================================================
+# STUDENT MANAGEMENT SYSTEM - SETUP & RUN MANUAL
+# ==============================================================================
+
+## 1. PRE-REQUISITES
+Ensure you have the following installed on your system:
+- Git Version Control
+- Python (Latest Version)
+- Pip (Python Package Manager)
+
+## 2. INSTALLATION & SETUP
+Follow these steps to set up the project on a new machine.
+
+Step 1: Open your terminal/command prompt and navigate to your workspace directory.
+
+
+Step 2: Enter the project directory
+> cd student-management-using-django
+
+Step 3: Create a Virtual Environment
+- For Windows: > python -m venv venv
+- For Mac/Linux: > python3 -m venv venv
+
+Step 4: Activate the Virtual Environment
+- For Windows: > venv\Scripts\activate
+- For Mac/Linux: > source venv/bin/activate
+
+Step 5: Install the Required Packages
+> pip install -r requirements.txt --upgrade
+
+Step 6: Database Migrations (If doing a fresh install without db.sqlite3)
+> python manage.py makemigrations
+> python manage.py migrate
+
+## 3. RUNNING THE PROJECT
+Whenever you want to run the project, execute these commands:
+
+Step 1: Navigate to the django project folder
+> cd student-management-using-django
+
+Step 2: Activate the Virtual Environment
+- For Windows: > venv\Scripts\activate
+- For Mac/Linux: > source venv/bin/activate
+
+Step 3: Start the Django Development Server
+> python manage.py runserver
+OR to specify a port:
+> python manage.py runserver 8080
+
+The server will start at http://127.0.0.1:8000/ (or the port you specified).
+
+## 4. DEFAULT LOGIN CREDENTIALS
+Use the following default credentials to test the various roles in the system.
+
+[Admin / HOD]
+Email: admin@admin.com
+Password: 123456
+
+[Staff / Teacher]
+Email: emily@gmail.com
+Password: 123456
+
+[Student]
+Email: david@student.com
+Password: 123456
+
+# ==============================================================================
