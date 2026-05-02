@@ -2,14 +2,8 @@
 This is a Simple Student Management System Developed While Learning Django.
 Feel free to make changes based on your requirements.
 
-[Front-end Template](http://adminlte.io "Admin LTE.io")
-
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=kArCR96m7uo "Django Student Management System Demo")
-
 And if you like this project, then ADD a STAR ⭐️  to this project 👆
-## Deployed to
-https://smswithdjango.herokuapp.com/
+
 
 
 ## Features of this Project
@@ -61,11 +55,10 @@ https://smswithdjango.herokuapp.com/
 
 ## Support Developer
 1. Add a Star 🌟  to this 👆 Repository
-2. Follow on Twitter/Github
+2. Follow on Linkdin/Github
 
 
-## Passport/Images
-Images are from [Unsplash](https://unsplash.com)
+
 
 
 ## How to Install and Run this project?
@@ -191,23 +184,21 @@ Then Add Email and Password
 **or Use Default Credentials**
 
 *For HOD /SuperAdmin*
-Email: admin@admin.com
-Password: admin
+Email: admin@bank.com
+Password: Admin@1234
 
 *For Staff*
-Email: staff@staff.com
-Password: staff
+Email:  staff@bank.com
+Password: Staff@1234
 
 *For Student*
-Email: student@student.com
-Password: student
+Email: test@gmail.com
+Password: Test@1234
 
 
 
 ## For Sponsor or Projects Enquiry
-1. Email - jobowonubi@gmail.com
-2. LinkedIn - [jobic10](https://www.linkedin.com/in/jobic10 "Owonubi Job Sunday on LinkedIn")
-2. Twitter - [jobic10](https://www.twitter.com/jobic10 "Owonubi Job Sunday on Twitter")
+1. LinkedIn - [Muhammad Abdullah](www.linkedin.com/in/muhammad-abdullah-a13289339)
 
 
 
